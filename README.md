@@ -1,5 +1,5 @@
 
-ToxSec
+[www.toxsec.com](https://www.toxsec.com/p/gandalf-ai-ctf)
 Gandalf | AI CTF
 A Prompt Injection Challenge
 
